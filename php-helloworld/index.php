@@ -1,3 +1,3 @@
 <?php
-print "Hello, DOS "\n";
+print "Hello, DOS" "\n";
 ?>
